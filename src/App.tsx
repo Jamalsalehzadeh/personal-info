@@ -8,9 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <b style={{ color: '#61dafb' }}>I</b>t
-          <b style={{ color: '#61dafb' }}>I</b>s
-          <b style={{ color: '#61dafb' }}>A</b>ram.
+          <b className="App-link">I</b>t<b className="App-link">I</b>s
+          <b className="App-link">A</b>ram.
         </p>
         <a
           className="App-link"
