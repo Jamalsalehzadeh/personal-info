@@ -1,8 +1,8 @@
 {
-  "name": "react-gantt-chart",
+  "name": "personal-info",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Jamalsalehzadeh.github.io/react-gantt-chart",
+  "homepage": "https://Jamalsalehzadeh.github.io/personal-info",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
