@@ -4,3 +4,36 @@
     min-height: 25vh;
     background-color: #eaeaea;
 }
+.footer-contactTypeSection {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    width: 100%;
+    height: 8vh;
+    padding: 0 1vw;
+}
+
+.footer-contactTypeSection-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+.footer-contactTypeSection-description {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 10px;
+    flex-grow: 1;
+    width: fit-content;
+    max-width: calc(100% - 5% - 64px);
+}
+.footer-contactTypeSection-description-text {
+    max-width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-size: 1rem;
+    font-family: monospace;
+}
